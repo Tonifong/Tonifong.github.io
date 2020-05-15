@@ -1,0 +1,20 @@
+# Site settings
+author: Antonio O Fong
+title: 
+header-img: img/home-bg.png
+email: omarquinzan@yahoo.com
+copyright_name: Antonio O Fong
+description: > # this means to ignore newlines until "baseurl:"
+  
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  Tonifong
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
