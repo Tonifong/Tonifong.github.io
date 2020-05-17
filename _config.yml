@@ -1,11 +1,11 @@
 # Site settings
-author: Antonio O Fong
-title: 
+author: Antonio Fong
+title: Think about me 
 header-img: img/home-bg.png
 email: omarquinzan@yahoo.com
-copyright_name: Antonio O Fong
+copyright_name: Antonio Fong
 description: > # this means to ignore newlines until "baseurl:"
-  
+  About me 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Tonifong
