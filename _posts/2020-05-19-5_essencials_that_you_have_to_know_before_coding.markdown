@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "5 Essencials that You have to Know before Coding"
-date:       2020-05-19 22:42:36 +0000
+date:       2020-05-19 18:42:38 -0400
 permalink:  5_essencials_that_you_have_to_know_before_coding
 ---
 
