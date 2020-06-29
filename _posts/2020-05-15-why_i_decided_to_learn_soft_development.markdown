@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why I Decided to Learn Soft Development"
-date:       2020-05-15 21:54:03 +0000
+date:       2020-05-15 17:54:04 -0400
 permalink:  why_i_decided_to_learn_soft_development
 ---
 
